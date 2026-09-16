@@ -1,0 +1,6 @@
+{
+  "name": "ZONEX",
+  "description": "Aplicativo fitness gamificado de corrida e conquista territorial com interface futurista e imersiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

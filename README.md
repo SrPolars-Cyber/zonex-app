@@ -161,7 +161,7 @@ Projeto desenvolvido por estudantes de **Análise e Desenvolvimento de Sistemas 
 **Equipe ZONEX**
 
 - Guilherme
-- Licoln
+- Lincoln
 - João Gabriel
 - Tales
 
